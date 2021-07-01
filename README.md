@@ -1,4 +1,5 @@
-﻿# Simply Text Editor
+![](https://github.com/dnizfor/basic-notepad/blob/main/media/ss.png)
+ # Simply Text Editor
 
 Basic Text Editor
 
@@ -7,8 +8,12 @@ Basic Text Editor
  Only tested on Linux
 ```
 # Clone this repository
+git clone https://github.com/dnizfor/basic-notepad
+
 # Go into the repository
+cd EDITOR
 # Run the app
+python3 editor.py
 ```
 
 # Development
